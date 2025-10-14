@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\mappydesu\Desktop\радиотех\lab1\spektrAnalysis\Project1\main.cpp(33,20): warning C4129: "*": нераспознанная escape-последовательность символов
+C:\Users\mappydesu\Desktop\радиотех\lab1\spektrAnalysis\Project1\main.cpp(76,34): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  Project1.vcxproj -> C:\Users\mappydesu\Desktop\радиотех\lab1\spektrAnalysis\x64\Debug\spektrAnalysis.exe
